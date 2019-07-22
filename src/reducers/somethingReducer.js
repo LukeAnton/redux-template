@@ -1,5 +1,5 @@
 import { TYPE_1, TYPE_2, TYPE_3, TYPE_4 } from "../actions/types";
-
+// To access the payload use "action.payload"
 const initialState = {
   something: false,
   something1: "",
